@@ -1,1 +1,1 @@
-"# integralCalculator" 
+# integralCalculator
